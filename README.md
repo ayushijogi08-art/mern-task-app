@@ -1,8 +1,9 @@
 # 📝 MERN Task Manager
 
-A full-stack project management application built with the MERN stack (MongoDB, Express, React, Node.js). This app allows users to create accounts, manage projects, and track tasks with real-time status updates.
+A full-stack project management application built with the MERN stack (MongoDB, Express, React, Node.js). This app allows users to create accounts, manage projects, and track tasks with real-time status updates
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here) 
+
+![Project Screenshot]<img width="889" height="860" alt="Screenshot 2026-01-30 200901" src="https://github.com/user-attachments/assets/9a4d79bc-99a1-47e0-889c-2ecf7117ce02" />
 ## 🚀 Features
 
 * **User Authentication:** Secure Login/Register using JWT (JSON Web Tokens).
