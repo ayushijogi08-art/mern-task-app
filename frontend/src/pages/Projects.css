@@ -1,0 +1,64 @@
+/* src/pages/Projects.css */
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.project-list button {
+  padding: 8px 16px;
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.project-list button.selected {
+  background: #d0eaff;
+  border-color: #007bff;
+}
+
+.create-project,
+.edit-project,
+.add-task {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.create-project input,
+.edit-project input,
+.add-task input {
+  flex: 1;
+  padding: 6px;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 0;
+}
+
+.task-item.completed span {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.task-item button {
+  margin-left: auto;
+  background: #ffdddd;
+  border: 1px solid #ff0000;
+  cursor: pointer;
+}
