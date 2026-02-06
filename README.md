@@ -1,5 +1,8 @@
 # 📝 MERN Task Manager
 
+## live demo
+ https://quite-surprise-baskets-intermediate.trycloudflare.com  
+
 A full-stack project management application built with the MERN stack (MongoDB, Express, React, Node.js). This app allows users to create accounts, manage projects, and track tasks with real-time status updates
 <img width="912" height="847" alt="image" src="https://github.com/user-attachments/assets/72e5db85-57e7-4420-9c87-e4753a8d9c2e" />
 
